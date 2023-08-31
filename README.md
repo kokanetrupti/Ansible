@@ -1,2 +1,2 @@
 # Ansible
-code uing ansible
+code using ansible
